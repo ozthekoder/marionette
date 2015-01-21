@@ -1,0 +1,22 @@
+{
+  "name": "marionette",
+  "version": "0.0.0",
+  "dependencies": {
+    "sass-bootstrap": "latest",
+    "jquery": "latest",
+    "requirejs": "latest",
+    "requirejs-text": "latest",
+    "backbone-amd": "latest",
+    "underscore-amd": "latest",
+    "modernizr": "latest",
+    "backbone.marionette": "latest",
+    "backbone.wreqr": "latest",
+    "backbone.babysitter": "latest",
+    "require-handlebars-plugin": "latest",
+    "mocha": "latest",
+    "chai": "latest",
+    "sinon": "latest"
+  },
+  "devDependencies": {},
+  "directory": "bower_components"
+}

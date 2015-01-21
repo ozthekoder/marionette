@@ -1,0 +1,16 @@
+$header-height : 50px;
+$color-base : #FF5E24;
+
+$color-darker-1 : darken($color-base, 5%);
+$color-darker-2 : darken($color-base, 15%);
+$color-darker-3 : darken($color-base, 25%);
+$color-darker-4 : darken($color-base, 35%);
+$color-darker-5 : darken($color-base, 45%);
+$color-darker-6 : darken($color-base, 65%);
+
+$color-lighter-1 : lighten($color-base, 5%);
+$color-lighter-2 : lighten($color-base, 15%);
+$color-lighter-3 : lighten($color-base, 25%);
+$color-lighter-4 : lighten($color-base, 35%);
+$color-lighter-5 : lighten($color-base, 45%);
+$color-lighter-6 : lighten($color-base, 65%);
